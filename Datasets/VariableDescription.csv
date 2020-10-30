@@ -2,7 +2,7 @@ Libellé ,Intitulé
 Contribuable,
 BCT_CODBUR,Code Bureau de contrôle des impôts
 CTR_MATFIS,ID Contribuable
-CTR_CATEGO_x,Catégorie Contribuable
+CTR_CATEGO_X,Catégorie Contribuable
 CTR_CODTVA,Code TVA
 FJU_CODFJU,Code Forme Juridique
 CTR_CESSAT,"Code Cessation (0 : Actif, 1 : en cessation)"
@@ -135,9 +135,9 @@ FAC_MNTTVA_C,Montant TVA sur factures  en suspension de Taxes
 ,
 ,
 ,
-======================================================,
+Err :510,
 FACAGR,
-======================================================,
+Err :510,
 CTR_MATFIS,Matricule fiscal
 CTR_ETBSEC,N°Etablissement Secondaire
 FAC_EXERCI,Exercice
@@ -149,9 +149,9 @@ FAC_MNTPRI_C,
 FAC_MFODEC_C,
 FAC_MNTDCO_C,
 FAC_MNTTVA_C,
-======================================================,
+Err :510,
 RESVAP,Résultat Vérification Approfondie
-======================================================,
+Err :510,
 CTR_MATFIS,Matricule fiscal
 CTR_ETBSEC,N°Etablissement Secondaire
 RES_MNTRED,Montant Principal Redressement
